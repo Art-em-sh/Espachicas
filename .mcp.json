@@ -2,7 +2,7 @@
   "mcpServers": {
     "tilda": {
       "type": "http",
-      "url": "https://tilda.kz/api/mcp/",
+      "url": "https://tilda.ru/api/mcp/",
       "headers": {
         "Authorization": "Bearer ${TILDA_TOKEN}"
       }
