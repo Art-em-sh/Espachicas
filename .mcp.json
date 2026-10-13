@@ -1,8 +1,15 @@
 {
   "mcpServers": {
+    "chatplace": {
+      "type": "http",
+      "url": "https://mcp.chatplace.io/mcp",
+      "headers": {
+        "Authorization": "Bearer ${CHATPLACE_TOKEN}"
+      }
+    },
     "tilda": {
       "type": "http",
-      "url": "https://tilda.ru/api/mcp/",
+      "url": "https://tilda.kz/api/mcp/",
       "headers": {
         "Authorization": "Bearer ${TILDA_TOKEN}"
       }
