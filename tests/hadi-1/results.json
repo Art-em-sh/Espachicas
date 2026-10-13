@@ -1,0 +1,9 @@
+{
+  "source": "Meta Ads, кабинет success nuevo (1881924229142737), кампания «ЛИД-ФОРМА ::: на сайт», данные за всё время на 2026-10-13, валюта EUR",
+  "memes": [
+    {"meme": "КОНЬ", "ads": 2, "spend_eur": 83.12, "impressions": 12935, "leads": 8, "cpl_eur": 10.4, "image": "creatives/kon.jpg"},
+    {"meme": "ТЫ Я СОЗВОН", "ads": 5, "spend_eur": 96.0, "impressions": 14177, "leads": 5, "cpl_eur": 19.2, "image": "creatives/ty-ya-sozvon.jpg"},
+    {"meme": "ОПЯТЬ НЕ ПОНЯЛИ", "ads": 2, "spend_eur": 52.9, "impressions": 5534, "leads": 3, "cpl_eur": 17.6, "image": "creatives/opyat-ne-ponyali.jpg"}
+  ],
+  "note": "Выборки малые, это ориентир, а не вывод. Все объявления в Meta на паузе."
+}
